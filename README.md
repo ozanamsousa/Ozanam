@@ -1,4 +1,5 @@
 ### Olá sou Ozanam Sousa ###
+-Profissional de Tecnologia da Informação, graduado em Ciencia da Computação com ênfase em desenvolvimento. Atualmente estou aprofundando em cursos e conteudos voltados para .NET Core com foco em C# em preparação para atuar como desenvolvedor .NET.
 
 <div align="center">
   <a href="https://github.com/ozanamsousa">
